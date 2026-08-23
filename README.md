@@ -13,6 +13,4 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzadl&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img src="https://raw.githubusercontent.com/jzadl/jzadl/output/github-contribution-grid-snake-dark.svg" width="100%">
